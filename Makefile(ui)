@@ -1,0 +1,9 @@
+SHELL := /bin/bash
+#build ui
+ui:
+	serve -s build
+#第一次创建ui以后就不用再创建了，直接使用make ui
+ui-first:
+	npm install
+	npm install -g serve
+#第一次创建ui需要的前置条件
