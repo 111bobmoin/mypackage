@@ -1,3 +1,2 @@
 # mypackage
-mypackage for riotpot \n
-哈哈哈哈哈哈哈哈
+mypackage for riotpot, you can use it to improve riotpot.
